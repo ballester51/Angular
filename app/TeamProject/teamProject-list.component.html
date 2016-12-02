@@ -1,0 +1,33 @@
+<h1>TEAM Projects ({{mode}})</h1>
+<!--<h3>Heroes:</h3>
+<ul>
+  <li *ngFor="let hero of heroes">
+    {{hero.name}}
+  </li>
+</ul>-->
+<h3>Amount TeamProjects:</h3>
+{{team_projects?.count}}
+<h3>Team Projects:</h3>
+<!--<ul>
+  <li *ngFor="let team_project of team_projects?.value">
+    {{team_project.name}}
+  </li>
+</ul>-->
+
+<select [ngModel]="selectedDeviceObj" (ngModelChange)="onChangeObj($event)" name="sel3">
+  <option [ngValue]="i" *ngFor="let i of team_projects?.value">{{i.name}}</option>
+</select>
+{{selectedTeamProjectObj | json}}
+
+
+<build-list [TeamProject]="TeamProject"></build-list>
+
+
+ 
+<!--New hero name:
+<input #newHeroName />
+<button (click)="addHero(newHeroName.value); newHeroName.value=''">
+  Add Hero
+</button>-->
+<div class="error" *ngIf="errorMessage">{{errorMessage}}</div>
+

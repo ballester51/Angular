@@ -1,0 +1,322 @@
+{
+  "count": 44,
+  "value": [
+    {
+      "id": "042f65fe-1e00-4540-9658-81c523ee129c",
+      "name": "Component.DTG",
+      "url": "http://web/tfs/Proyecto/_apis/projects/042f65fe-1e00-4540-9658-81c523ee129c",
+      "state": "wellFormed",
+      "revision": 24631150
+    },
+    {
+      "id": "d2efcf70-24b5-4a68-8b39-6a78c3c759f8",
+      "name": "Component.ATR",
+      "url": "http://web/tfs/Proyecto/_apis/projects/d2efcf70-24b5-4a68-8b39-6a78c3c759f8",
+      "state": "wellFormed",
+      "revision": 24631049
+    },
+    {
+      "id": "f2800915-c7aa-4e84-921c-9d7b0349777b",
+      "name": "Component.CRS",
+      "url": "http://web/tfs/Proyecto/_apis/projects/f2800915-c7aa-4e84-921c-9d7b0349777b",
+      "state": "wellFormed",
+      "revision": 24631062
+    },
+    {
+      "id": "f745d22c-3edb-4bde-98dc-61ffecb04b44",
+      "name": "Component.PipelineConf",
+      "url": "http://web/tfs/Proyecto/_apis/projects/f745d22c-3edb-4bde-98dc-61ffecb04b44",
+      "state": "wellFormed",
+      "revision": 24631164
+    },
+    {
+      "id": "bfa05328-957c-4b28-9cb7-80d3a4158cd2",
+      "name": "Component.IO.SFTP.Conf",
+      "url": "http://web/tfs/Proyecto/_apis/projects/bfa05328-957c-4b28-9cb7-80d3a4158cd2",
+      "state": "wellFormed",
+      "revision": 24631128
+    },
+    {
+      "id": "d9cb33ef-2e0a-4a29-8505-45822d9233da",
+      "name": "Component.ATR",
+      "url": "http://web/tfs/Proyecto/_apis/projects/d9cb33ef-2e0a-4a29-8505-45822d9233da",
+      "state": "wellFormed",
+      "revision": 24631044
+    },
+    {
+      "id": "e3a0dbd5-327f-4145-b522-637f94b3b93f",
+      "name": "Component.ProofOfConcept",
+      "url": "http://web/tfs/Proyecto/_apis/projects/e3a0dbd5-327f-4145-b522-637f94b3b93f",
+      "state": "wellFormed",
+      "revision": 24631047
+    },
+    {
+      "id": "6994b2cb-179c-46bb-b4e8-c6ca9d009796",
+      "name": "Component.Traces",
+      "url": "http://web/tfs/Proyecto/_apis/projects/6994b2cb-179c-46bb-b4e8-c6ca9d009796",
+      "state": "wellFormed",
+      "revision": 24631149
+    },
+    {
+      "id": "704e366f-775b-4d66-875b-c38ddccef32a",
+      "name": "ATR.TeamProjects",
+      "description": "ATR Projects",
+      "url": "http://web/tfs/Proyecto/_apis/projects/704e366f-775b-4d66-875b-c38ddccef32a",
+      "state": "wellFormed",
+      "revision": 24631109
+    },
+    {
+      "id": "19dba1cb-01c7-4420-b446-d2116fe5dbaa",
+      "name": "Component.DevTools",
+      "url": "http://web/tfs/Proyecto/_apis/projects/19dba1cb-01c7-4420-b446-d2116fe5dbaa",
+      "state": "wellFormed",
+      "revision": 24631068
+    },
+    {
+      "id": "66107f64-7b57-4e69-bc0f-cdd9a7f3a2ea",
+      "name": "Compo.Automation",
+      "description": "For automation projects",
+      "url": "http://web/tfs/Proyecto/_apis/projects/66107f64-7b57-4e69-bc0f-cdd9a7f3a2ea",
+      "state": "wellFormed",
+      "revision": 24631066
+    },
+    {
+      "id": "5079c962-1d88-4e69-bb0a-9fc6156174ad",
+      "name": "Component.NGPS",
+      "url": "http://web/tfs/Proyecto/_apis/projects/5079c962-1d88-4e69-bb0a-9fc6156174ad",
+      "state": "wellFormed",
+      "revision": 24631081
+    },
+    {
+      "id": "1e5a0a42-ecea-42dd-acd2-2404e7605526",
+      "name": "Component.Monitoring",
+      "description": "Monitoring team project",
+      "url": "http://web/tfs/Proyecto/_apis/projects/1e5a0a42-ecea-42dd-acd2-2404e7605526",
+      "state": "wellFormed",
+      "revision": 24631042
+    },
+    {
+      "id": "7faaacdb-979d-4072-9b18-3fcf25aef786",
+      "name": "Component.USConnector",
+      "url": "http://web/tfs/Proyecto/_apis/projects/7faaacdb-979d-4072-9b18-3fcf25aef786",
+      "state": "wellFormed",
+      "revision": 24631075
+    },
+    {
+      "id": "c2684d44-82d2-4c03-9010-981f86b444d7",
+      "name": "Component.SIFProc",
+      "url": "http://web/tfs/Proyecto/_apis/projects/c2684d44-82d2-4c03-9010-981f86b444d7",
+      "state": "wellFormed",
+      "revision": 24631060
+    },
+    {
+      "id": "9c3efd05-ced2-4b8b-aff1-8bd392b08ec1",
+      "name": "Component.Betterview",
+      "url": "http://web/tfs/Proyecto/_apis/projects/9c3efd05-ced2-4b8b-aff1-8bd392b08ec1",
+      "state": "wellFormed",
+      "revision": 24631056
+    },
+    {
+      "id": "c7fc3160-094a-41b3-a319-148a70c5806d",
+      "name": "Component.Nsapi",
+      "url": "http://web/tfs/Proyecto/_apis/projects/c7fc3160-094a-41b3-a319-148a70c5806d",
+      "state": "wellFormed",
+      "revision": 24631041
+    },
+    {
+      "id": "e0a54d02-b7d4-426c-a2bf-b29848baee4e",
+      "name": "Component.ConfigTool",
+      "url": "http://web/tfs/Proyecto/_apis/projects/e0a54d02-b7d4-426c-a2bf-b29848baee4e",
+      "state": "wellFormed",
+      "revision": 24631101
+    },
+    {
+      "id": "7b38a92c-1b25-4a5a-b189-8d0635bc2ed4",
+      "name": "Component.FileStorage",
+      "url": "http://web/tfs/Proyecto/_apis/projects/7b38a92c-1b25-4a5a-b189-8d0635bc2ed4",
+      "state": "wellFormed",
+      "revision": 24631058
+    },
+    {
+      "id": "0b1b6b7e-f14f-4721-9026-0bfffafb1bd5",
+      "name": "Team.BlackMamba",
+      "url": "http://web/tfs/Proyecto/_apis/projects/0b1b6b7e-f14f-4721-9026-0bfffafb1bd5",
+      "state": "wellFormed",
+      "revision": 24631177
+    },
+    {
+      "id": "821be33b-118b-4657-9e07-6cb9b9c24837",
+      "name": "Component.DocumentManager",
+      "url": "http://web/tfs/Proyecto/_apis/projects/821be33b-118b-4657-9e07-6cb9b9c24837",
+      "state": "wellFormed",
+      "revision": 24631050
+    },
+    {
+      "id": "e02cd76a-10dd-40f3-8d75-f2694c241a03",
+      "name": "Component.TfsTemplates",
+      "description": "Sample project to show all the CI/CD paths",
+      "url": "http://web/tfs/Proyecto/_apis/projects/e02cd76a-10dd-40f3-8d75-f2694c241a03",
+      "state": "wellFormed",
+      "revision": 24631116
+    },
+    {
+      "id": "c1076f28-1561-4789-a860-d0427632cbbe",
+      "name": "Component.Integration",
+      "url": "http://web/tfs/Proyecto/_apis/projects/c1076f28-1561-4789-a860-d0427632cbbe",
+      "state": "wellFormed",
+      "revision": 24631067
+    },
+    {
+      "id": "297fb3b2-72e3-46bc-a3a8-5f7d1ed1cbfe",
+      "name": "Component.ATR",
+      "url": "http://web/tfs/Proyecto/_apis/projects/297fb3b2-72e3-46bc-a3a8-5f7d1ed1cbfe",
+      "state": "wellFormed",
+      "revision": 24631046
+    },
+    {
+      "id": "28dd011f-4503-42d2-b26b-6879dc8b93a5",
+      "name": "Component.UHRAConf",
+      "url": "http://web/tfs/Proyecto/_apis/projects/28dd011f-4503-42d2-b26b-6879dc8b93a5",
+      "state": "wellFormed",
+      "revision": 24631048
+    },
+    {
+      "id": "4a22f70c-2c3a-4fba-bb53-6e2fc0d896f7",
+      "name": "Component.DBScripts",
+      "description": "The goal of this team project is store the all db scripts for the Releases",
+      "url": "http://web/tfs/Proyecto/_apis/projects/4a22f70c-2c3a-4fba-bb53-6e2fc0d896f7",
+      "state": "wellFormed",
+      "revision": 24631051
+    },
+    {
+      "id": "b68fbd9e-5ae0-40b0-be81-fc4d474a1da5",
+      "name": "Component.LGPService",
+      "url": "http://web/tfs/Proyecto/_apis/projects/b68fbd9e-5ae0-40b0-be81-fc4d474a1da5",
+      "state": "wellFormed",
+      "revision": 24631069
+    },
+    {
+      "id": "4819bf1a-cc38-47c6-9c0f-91ed4c19f0fe",
+      "name": "Component.FileCheckerService",
+      "description": "File security check service.\r\nIntegrates FSS with ClamAv AV servers.",
+      "url": "http://web/tfs/Proyecto/_apis/projects/4819bf1a-cc38-47c6-9c0f-91ed4c19f0fe",
+      "state": "wellFormed",
+      "revision": 24631059
+    },
+    {
+      "id": "1a6ea8f8-9d04-4894-9c84-9b4e3ac7ad50",
+      "name": "Component.Invoicing",
+      "url": "http://web/tfs/Proyecto/_apis/projects/1a6ea8f8-9d04-4894-9c84-9b4e3ac7ad50",
+      "state": "wellFormed",
+      "revision": 24631061
+    },
+    {
+      "id": "2e3ce557-b3f7-41a2-b292-806b3f8e1aa1",
+      "name": "Component.ProductionTools",
+      "url": "http://web/tfs/Proyecto/_apis/projects/2e3ce557-b3f7-41a2-b292-806b3f8e1aa1",
+      "state": "wellFormed",
+      "revision": 24631053
+    },
+    {
+      "id": "9d86ef2b-e670-4a50-89a0-59e8d2afc503",
+      "name": "Component.ServiceMetrics",
+      "url": "http://web/tfs/Proyecto/_apis/projects/9d86ef2b-e670-4a50-89a0-59e8d2afc503",
+      "state": "wellFormed",
+      "revision": 24631045
+    },
+    {
+      "id": "b6dffb25-08fc-4ece-97ac-9d71503445c6",
+      "name": "Component.PoC",
+      "description": "Team project to develop proof of concepts",
+      "url": "http://web/tfs/Proyecto/_apis/projects/b6dffb25-08fc-4ece-97ac-9d71503445c6",
+      "state": "wellFormed",
+      "revision": 24631157
+    },
+    {
+      "id": "7463d3b7-566e-47da-a49d-09ec0333f7e3",
+      "name": "Component.Crosscutting",
+      "url": "http://web/tfs/Proyecto/_apis/projects/7463d3b7-566e-47da-a49d-09ec0333f7e3",
+      "state": "wellFormed",
+      "revision": 24631040
+    },
+    {
+      "id": "5e3ab102-fea0-4eee-8b37-8cb78a09e457",
+      "name": "Streamline",
+      "url": "http://web/tfs/Proyecto/_apis/projects/5e3ab102-fea0-4eee-8b37-8cb78a09e457",
+      "state": "wellFormed",
+      "revision": 24631057
+    },
+    {
+      "id": "758a179a-e40b-4c81-9a34-a5c954140ebe",
+      "name": "Team.WhiteLions",
+      "url": "http://web/tfs/Proyecto/_apis/projects/758a179a-e40b-4c81-9a34-a5c954140ebe",
+      "state": "wellFormed",
+      "revision": 24631170
+    },
+    {
+      "id": "08dfa4b1-fc96-422d-b954-ca18e7e3e9bf",
+      "name": "Component.EPayslips",
+      "url": "http://web/tfs/Proyecto/_apis/projects/08dfa4b1-fc96-422d-b954-ca18e7e3e9bf",
+      "state": "wellFormed",
+      "revision": 24631065
+    },
+    {
+      "id": "c56dc006-7cbd-46f8-b87a-8783f1ee83dd",
+      "name": "Component.UM",
+      "description": "User management tools project",
+      "url": "http://web/tfs/Proyecto/_apis/projects/c56dc006-7cbd-46f8-b87a-8783f1ee83dd",
+      "state": "wellFormed",
+      "revision": 24631055
+    },
+    {
+      "id": "736feedc-a04e-4ae2-aa92-8726a7556395",
+      "name": "Component.MasterData",
+      "url": "http://web/tfs/Proyecto/_apis/projects/736feedc-a04e-4ae2-aa92-8726a7556395",
+      "state": "wellFormed",
+      "revision": 24631054
+    },
+    {
+      "id": "b7b21380-f6e7-49c7-9689-24720d9d04a4",
+      "name": "Component.ATR",
+      "url": "http://web/tfs/Proyecto/_apis/projects/b7b21380-f6e7-49c7-9689-24720d9d04a4",
+      "state": "wellFormed",
+      "revision": 24631043
+    },
+    {
+      "id": "7752d1aa-d0a4-44a9-9abc-c10324268dff",
+      "name": "Component.ProductionLine",
+      "description": "Production Line team project",
+      "url": "http://web/tfs/Proyecto/_apis/projects/7752d1aa-d0a4-44a9-9abc-c10324268dff",
+      "state": "wellFormed",
+      "revision": 24631064
+    },
+    {
+      "id": "8de78cbc-b916-452c-a079-532481dc8386",
+      "name": "Component.IO.SFTP",
+      "url": "http://web/tfs/Proyecto/_apis/projects/8de78cbc-b916-452c-a079-532481dc8386",
+      "state": "wellFormed",
+      "revision": 24631136
+    },
+    {
+      "id": "daceadec-c9d2-436f-90d4-6ee0e9461453",
+      "name": "Component.EmployeeManagement",
+      "url": "http://web/tfs/Proyecto/_apis/projects/daceadec-c9d2-436f-90d4-6ee0e9461453",
+      "state": "wellFormed",
+      "revision": 24631052
+    },
+    {
+      "id": "c97f1673-f1f4-4876-b711-45ba0c879953",
+      "name": "Component.DispatchPage",
+      "url": "http://web/tfs/Proyecto/_apis/projects/c97f1673-f1f4-4876-b711-45ba0c879953",
+      "state": "wellFormed",
+      "revision": 24631094
+    },
+    {
+      "id": "faa10319-208f-4077-b0fc-a50c0a08fddd",
+      "name": "Component.UserManagement",
+      "url": "http://web/tfs/Proyecto/_apis/projects/faa10319-208f-4077-b0fc-a50c0a08fddd",
+      "state": "wellFormed",
+      "revision": 24631063
+    }
+  ]
+}

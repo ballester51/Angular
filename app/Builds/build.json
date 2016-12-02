@@ -1,0 +1,763 @@
+{
+  "count": 8,
+  "value": [
+    {
+      "_links": {
+        "self": {
+          "href": "http://web/tfs/Proyecto/bfa05328-957c-4b28-9cb7-80d3a4158cd2/_apis/build/Builds/43219"
+        },
+        "web": {
+          "href": "http://ind156:8080/tfs/_permalink/_build/index?collectionId=0800dfc1-e42a-4464-afaf-0e27450cfa9e&projectId=bfa05328-957c-4b28-9cb7-80d3a4158cd2&buildId=43219"
+        },
+        "timeline": {
+          "href": "http://web/tfs/Proyecto/bfa05328-957c-4b28-9cb7-80d3a4158cd2/_apis/build/builds/43219/Timeline"
+        }
+      },
+      "id": 43219,
+      "buildNumber": "20161007.3",
+      "status": "completed",
+      "result": "succeeded",
+      "queueTime": "2016-10-07T16:06:43.4405513Z",
+      "startTime": "2016-10-07T16:06:46.7061845Z",
+      "finishTime": "2016-10-07T16:10:19.6753477Z",
+      "url": "http://web/tfs/Proyecto/bfa05328-957c-4b28-9cb7-80d3a4158cd2/_apis/build/Builds/43219",
+      "definition": {
+        "type": "build",
+        "revision": 10,
+        "id": 1049,
+        "name": "IO.SFTP.Conf-Dev-DTest",
+        "url": "http://web/tfs/Proyecto/bfa05328-957c-4b28-9cb7-80d3a4158cd2/_apis/build/Definitions/1049",
+        "project": {
+          "id": "bfa05328-957c-4b28-9cb7-80d3a4158cd2",
+          "name": "Component.IO.SFTP.Conf",
+          "url": "http://web/tfs/Proyecto/_apis/projects/bfa05328-957c-4b28-9cb7-80d3a4158cd2",
+          "state": "wellFormed",
+          "revision": 24631128
+        }
+      },
+      "buildNumberRevision": 3,
+      "project": {
+        "id": "bfa05328-957c-4b28-9cb7-80d3a4158cd2",
+        "name": "Component.IO.SFTP.Conf",
+        "url": "http://web/tfs/Proyecto/_apis/projects/bfa05328-957c-4b28-9cb7-80d3a4158cd2",
+        "state": "wellFormed",
+        "revision": 24631128
+      },
+      "uri": "vstfs:///Build/Build/43219",
+      "sourceBranch": "$/",
+      "sourceVersion": "C34228",
+      "queue": {
+        "pool": {
+          "id": 1,
+          "name": "default"
+        },
+        "id": 1,
+        "name": "default"
+      },
+      "priority": "normal",
+      "reason": "manual",
+      "requestedFor": {
+        "id": "d9f6f248-f21c-4258-a32c-ed87cdbfa6c9",
+        "displayName": "José Ballester",
+        "uniqueName": "ADESI\\jballes",
+        "url": "http://web/tfs/Proyecto/_apis/Identities/d9f6f248-f21c-4258-a32c-ed87cdbfa6c9",
+        "imageUrl": "http://ind156:8080/tfs/Proyecto/_api/_common/identityImage?id=d9f6f248-f21c-4258-a32c-ed87cdbfa6c9"
+      },
+      "requestedBy": {
+        "id": "d9f6f248-f21c-4258-a32c-ed87cdbfa6c9",
+        "displayName": "José Ballester",
+        "uniqueName": "ADESI\\jballes",
+        "url": "http://web/tfs/Proyecto/_apis/Identities/d9f6f248-f21c-4258-a32c-ed87cdbfa6c9",
+        "imageUrl": "http://ind156:8080/tfs/Proyecto/_api/_common/identityImage?id=d9f6f248-f21c-4258-a32c-ed87cdbfa6c9"
+      },
+      "lastChangedDate": "2016-10-07T16:10:19.703Z",
+      "lastChangedBy": {
+        "id": "4de83f63-c8ee-4ec9-bbbd-b7d1c8ed6f0a",
+        "displayName": "[Proyecto]\\Project Collection Service Accounts",
+        "uniqueName": "vstfs:///Framework/IdentityDomain/0800dfc1-e42a-4464-afaf-0e27450cfa9e\\Project Collection Service Accounts",
+        "url": "http://web/tfs/Proyecto/_apis/Identities/4de83f63-c8ee-4ec9-bbbd-b7d1c8ed6f0a",
+        "imageUrl": "http://ind156:8080/tfs/Proyecto/_api/_common/identityImage?id=4de83f63-c8ee-4ec9-bbbd-b7d1c8ed6f0a",
+        "isContainer": true
+      },
+      "parameters": "{\"system.debug\":\"false\",\"BuildConfiguration\":\"DeployTesting\",\"BuildPlatform\":\"any cpu\"}",
+      "orchestrationPlan": {
+        "planId": "8eac77d9-a6cb-470f-90a6-16c2964f73a4"
+      },
+      "logs": {
+        "id": 0,
+        "type": "Container",
+        "url": "http://web/tfs/Proyecto/bfa05328-957c-4b28-9cb7-80d3a4158cd2/_apis/build/builds/43219/logs"
+      },
+      "repository": {
+        "id": "$/",
+        "type": "TfsVersionControl",
+        "clean": null,
+        "checkoutSubmodules": false
+      },
+      "keepForever": false
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://web/tfs/Proyecto/bfa05328-957c-4b28-9cb7-80d3a4158cd2/_apis/build/Builds/43218"
+        },
+        "web": {
+          "href": "http://ind156:8080/tfs/_permalink/_build/index?collectionId=0800dfc1-e42a-4464-afaf-0e27450cfa9e&projectId=bfa05328-957c-4b28-9cb7-80d3a4158cd2&buildId=43218"
+        },
+        "timeline": {
+          "href": "http://web/tfs/Proyecto/bfa05328-957c-4b28-9cb7-80d3a4158cd2/_apis/build/builds/43218/Timeline"
+        }
+      },
+      "id": 43218,
+      "buildNumber": "20161007.3",
+      "status": "completed",
+      "result": "succeeded",
+      "queueTime": "2016-10-07T16:05:49.6435781Z",
+      "startTime": "2016-10-07T16:05:51.4873269Z",
+      "finishTime": "2016-10-07T16:09:05.0502061Z",
+      "url": "http://web/tfs/Proyecto/bfa05328-957c-4b28-9cb7-80d3a4158cd2/_apis/build/Builds/43218",
+      "definition": {
+        "type": "build",
+        "revision": 10,
+        "id": 1042,
+        "name": "IO.SFTP.Conf-Dev-CI",
+        "url": "http://web/tfs/Proyecto/bfa05328-957c-4b28-9cb7-80d3a4158cd2/_apis/build/Definitions/1042",
+        "project": {
+          "id": "bfa05328-957c-4b28-9cb7-80d3a4158cd2",
+          "name": "Component.IO.SFTP.Conf",
+          "url": "http://web/tfs/Proyecto/_apis/projects/bfa05328-957c-4b28-9cb7-80d3a4158cd2",
+          "state": "wellFormed",
+          "revision": 24631128
+        }
+      },
+      "buildNumberRevision": 3,
+      "project": {
+        "id": "bfa05328-957c-4b28-9cb7-80d3a4158cd2",
+        "name": "Component.IO.SFTP.Conf",
+        "url": "http://web/tfs/Proyecto/_apis/projects/bfa05328-957c-4b28-9cb7-80d3a4158cd2",
+        "state": "wellFormed",
+        "revision": 24631128
+      },
+      "uri": "vstfs:///Build/Build/43218",
+      "sourceBranch": "$/Component.IO.SFTP.Conf/Dev/Component.IO.SFTP.Configuration-Dev/Component.IO.SFTP.Configuration",
+      "sourceVersion": "C34228",
+      "queue": {
+        "pool": {
+          "id": 1,
+          "name": "default"
+        },
+        "id": 1,
+        "name": "default"
+      },
+      "priority": "normal",
+      "reason": "batchedCI",
+      "requestedFor": {
+        "id": "d9f6f248-f21c-4258-a32c-ed87cdbfa6c9",
+        "displayName": "José Ballester",
+        "uniqueName": "ADESI\\jballes",
+        "url": "http://web/tfs/Proyecto/_apis/Identities/d9f6f248-f21c-4258-a32c-ed87cdbfa6c9",
+        "imageUrl": "http://ind156:8080/tfs/Proyecto/_api/_common/identityImage?id=d9f6f248-f21c-4258-a32c-ed87cdbfa6c9"
+      },
+      "requestedBy": {
+        "id": "4de83f63-c8ee-4ec9-bbbd-b7d1c8ed6f0a",
+        "displayName": "[Proyecto]\\Project Collection Service Accounts",
+        "uniqueName": "vstfs:///Framework/IdentityDomain/0800dfc1-e42a-4464-afaf-0e27450cfa9e\\Project Collection Service Accounts",
+        "url": "http://web/tfs/Proyecto/_apis/Identities/4de83f63-c8ee-4ec9-bbbd-b7d1c8ed6f0a",
+        "imageUrl": "http://ind156:8080/tfs/Proyecto/_api/_common/identityImage?id=4de83f63-c8ee-4ec9-bbbd-b7d1c8ed6f0a",
+        "isContainer": true
+      },
+      "lastChangedDate": "2016-10-07T16:09:05.07Z",
+      "lastChangedBy": {
+        "id": "4de83f63-c8ee-4ec9-bbbd-b7d1c8ed6f0a",
+        "displayName": "[Proyecto]\\Project Collection Service Accounts",
+        "uniqueName": "vstfs:///Framework/IdentityDomain/0800dfc1-e42a-4464-afaf-0e27450cfa9e\\Project Collection Service Accounts",
+        "url": "http://web/tfs/Proyecto/_apis/Identities/4de83f63-c8ee-4ec9-bbbd-b7d1c8ed6f0a",
+        "imageUrl": "http://ind156:8080/tfs/Proyecto/_api/_common/identityImage?id=4de83f63-c8ee-4ec9-bbbd-b7d1c8ed6f0a",
+        "isContainer": true
+      },
+      "orchestrationPlan": {
+        "planId": "28f2b2db-90d4-42a9-8ae1-28b7f4b3790e"
+      },
+      "logs": {
+        "id": 0,
+        "type": "Container",
+        "url": "http://web/tfs/Proyecto/bfa05328-957c-4b28-9cb7-80d3a4158cd2/_apis/build/builds/43218/logs"
+      },
+      "repository": {
+        "id": "$/",
+        "type": "TfsVersionControl",
+        "clean": null,
+        "checkoutSubmodules": false
+      },
+      "keepForever": false
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://web/tfs/Proyecto/bfa05328-957c-4b28-9cb7-80d3a4158cd2/_apis/build/Builds/43217"
+        },
+        "web": {
+          "href": "http://ind156:8080/tfs/_permalink/_build/index?collectionId=0800dfc1-e42a-4464-afaf-0e27450cfa9e&projectId=bfa05328-957c-4b28-9cb7-80d3a4158cd2&buildId=43217"
+        },
+        "timeline": {
+          "href": "http://web/tfs/Proyecto/bfa05328-957c-4b28-9cb7-80d3a4158cd2/_apis/build/builds/43217/Timeline"
+        }
+      },
+      "id": 43217,
+      "buildNumber": "20161007.3",
+      "status": "completed",
+      "result": "succeeded",
+      "queueTime": "2016-10-07T16:05:21.6435262Z",
+      "startTime": "2016-10-07T16:05:22.5497697Z",
+      "finishTime": "2016-10-07T16:05:49.4717122Z",
+      "url": "http://web/tfs/Proyecto/bfa05328-957c-4b28-9cb7-80d3a4158cd2/_apis/build/Builds/43217",
+      "definition": {
+        "type": "build",
+        "revision": 2,
+        "id": 1040,
+        "name": "IO.SFTP.Conf-Dev-GCI",
+        "url": "http://web/tfs/Proyecto/bfa05328-957c-4b28-9cb7-80d3a4158cd2/_apis/build/Definitions/1040",
+        "project": {
+          "id": "bfa05328-957c-4b28-9cb7-80d3a4158cd2",
+          "name": "Component.IO.SFTP.Conf",
+          "url": "http://web/tfs/Proyecto/_apis/projects/bfa05328-957c-4b28-9cb7-80d3a4158cd2",
+          "state": "wellFormed",
+          "revision": 24631128
+        }
+      },
+      "buildNumberRevision": 3,
+      "project": {
+        "id": "bfa05328-957c-4b28-9cb7-80d3a4158cd2",
+        "name": "Component.IO.SFTP.Conf",
+        "url": "http://web/tfs/Proyecto/_apis/projects/bfa05328-957c-4b28-9cb7-80d3a4158cd2",
+        "state": "wellFormed",
+        "revision": 24631128
+      },
+      "uri": "vstfs:///Build/Build/43217",
+      "sourceBranch": "$/Component.IO.SFTP.Conf/Dev/Component.IO.SFTP.Configuration-Dev/Component.IO.SFTP.Configuration",
+      "sourceVersion": "C34228",
+      "queue": {
+        "pool": {
+          "id": 1,
+          "name": "default"
+        },
+        "id": 1,
+        "name": "default"
+      },
+      "priority": "normal",
+      "reason": "checkInShelveset",
+      "requestedFor": {
+        "id": "d9f6f248-f21c-4258-a32c-ed87cdbfa6c9",
+        "displayName": "José Ballester",
+        "uniqueName": "ADESI\\jballes",
+        "url": "http://web/tfs/Proyecto/_apis/Identities/d9f6f248-f21c-4258-a32c-ed87cdbfa6c9",
+        "imageUrl": "http://ind156:8080/tfs/Proyecto/_api/_common/identityImage?id=d9f6f248-f21c-4258-a32c-ed87cdbfa6c9"
+      },
+      "requestedBy": {
+        "id": "d9f6f248-f21c-4258-a32c-ed87cdbfa6c9",
+        "displayName": "José Ballester",
+        "uniqueName": "ADESI\\jballes",
+        "url": "http://web/tfs/Proyecto/_apis/Identities/d9f6f248-f21c-4258-a32c-ed87cdbfa6c9",
+        "imageUrl": "http://ind156:8080/tfs/Proyecto/_api/_common/identityImage?id=d9f6f248-f21c-4258-a32c-ed87cdbfa6c9"
+      },
+      "lastChangedDate": "2016-10-07T16:05:49.54Z",
+      "lastChangedBy": {
+        "id": "4de83f63-c8ee-4ec9-bbbd-b7d1c8ed6f0a",
+        "displayName": "[Proyecto]\\Project Collection Service Accounts",
+        "uniqueName": "vstfs:///Framework/IdentityDomain/0800dfc1-e42a-4464-afaf-0e27450cfa9e\\Project Collection Service Accounts",
+        "url": "http://web/tfs/Proyecto/_apis/Identities/4de83f63-c8ee-4ec9-bbbd-b7d1c8ed6f0a",
+        "imageUrl": "http://ind156:8080/tfs/Proyecto/_api/_common/identityImage?id=4de83f63-c8ee-4ec9-bbbd-b7d1c8ed6f0a",
+        "isContainer": true
+      },
+      "orchestrationPlan": {
+        "planId": "57d0a255-2259-4ebe-94fb-a54b8bee60cb"
+      },
+      "logs": {
+        "id": 0,
+        "type": "Container",
+        "url": "http://web/tfs/Proyecto/bfa05328-957c-4b28-9cb7-80d3a4158cd2/_apis/build/builds/43217/logs"
+      },
+      "repository": {
+        "id": "$/",
+        "type": "TfsVersionControl",
+        "clean": null,
+        "checkoutSubmodules": false
+      },
+      "keepForever": false
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://web/tfs/Proyecto/bfa05328-957c-4b28-9cb7-80d3a4158cd2/_apis/build/Builds/42888"
+        },
+        "web": {
+          "href": "http://ind156:8080/tfs/_permalink/_build/index?collectionId=0800dfc1-e42a-4464-afaf-0e27450cfa9e&projectId=bfa05328-957c-4b28-9cb7-80d3a4158cd2&buildId=42888"
+        },
+        "timeline": {
+          "href": "http://web/tfs/Proyecto/bfa05328-957c-4b28-9cb7-80d3a4158cd2/_apis/build/builds/42888/Timeline"
+        }
+      },
+      "id": 42888,
+      "buildNumber": "20161004.1",
+      "status": "completed",
+      "result": "succeeded",
+      "queueTime": "2016-10-04T15:46:43.3780698Z",
+      "startTime": "2016-10-04T15:46:44.9874473Z",
+      "finishTime": "2016-10-04T15:48:11.8782449Z",
+      "url": "http://web/tfs/Proyecto/bfa05328-957c-4b28-9cb7-80d3a4158cd2/_apis/build/Builds/42888",
+      "definition": {
+        "type": "build",
+        "revision": 5,
+        "id": 1051,
+        "name": "IO.SFTP.Conf-Internal-Dev-DTest",
+        "url": "http://web/tfs/Proyecto/bfa05328-957c-4b28-9cb7-80d3a4158cd2/_apis/build/Definitions/1051",
+        "project": {
+          "id": "bfa05328-957c-4b28-9cb7-80d3a4158cd2",
+          "name": "Component.IO.SFTP.Conf",
+          "url": "http://web/tfs/Proyecto/_apis/projects/bfa05328-957c-4b28-9cb7-80d3a4158cd2",
+          "state": "wellFormed",
+          "revision": 24631128
+        }
+      },
+      "buildNumberRevision": 1,
+      "project": {
+        "id": "bfa05328-957c-4b28-9cb7-80d3a4158cd2",
+        "name": "Component.IO.SFTP.Conf",
+        "url": "http://web/tfs/Proyecto/_apis/projects/bfa05328-957c-4b28-9cb7-80d3a4158cd2",
+        "state": "wellFormed",
+        "revision": 24631128
+      },
+      "uri": "vstfs:///Build/Build/42888",
+      "sourceBranch": "$/",
+      "sourceVersion": "C34069",
+      "queue": {
+        "pool": {
+          "id": 1,
+          "name": "default"
+        },
+        "id": 1,
+        "name": "default"
+      },
+      "priority": "normal",
+      "reason": "manual",
+      "requestedFor": {
+        "id": "d9f6f248-f21c-4258-a32c-ed87cdbfa6c9",
+        "displayName": "José Ballester",
+        "uniqueName": "ADESI\\jballes",
+        "url": "http://web/tfs/Proyecto/_apis/Identities/d9f6f248-f21c-4258-a32c-ed87cdbfa6c9",
+        "imageUrl": "http://ind156:8080/tfs/Proyecto/_api/_common/identityImage?id=d9f6f248-f21c-4258-a32c-ed87cdbfa6c9"
+      },
+      "requestedBy": {
+        "id": "d9f6f248-f21c-4258-a32c-ed87cdbfa6c9",
+        "displayName": "José Ballester",
+        "uniqueName": "ADESI\\jballes",
+        "url": "http://web/tfs/Proyecto/_apis/Identities/d9f6f248-f21c-4258-a32c-ed87cdbfa6c9",
+        "imageUrl": "http://ind156:8080/tfs/Proyecto/_api/_common/identityImage?id=d9f6f248-f21c-4258-a32c-ed87cdbfa6c9"
+      },
+      "lastChangedDate": "2016-10-04T15:48:11.847Z",
+      "lastChangedBy": {
+        "id": "4de83f63-c8ee-4ec9-bbbd-b7d1c8ed6f0a",
+        "displayName": "[Proyecto]\\Project Collection Service Accounts",
+        "uniqueName": "vstfs:///Framework/IdentityDomain/0800dfc1-e42a-4464-afaf-0e27450cfa9e\\Project Collection Service Accounts",
+        "url": "http://web/tfs/Proyecto/_apis/Identities/4de83f63-c8ee-4ec9-bbbd-b7d1c8ed6f0a",
+        "imageUrl": "http://ind156:8080/tfs/Proyecto/_api/_common/identityImage?id=4de83f63-c8ee-4ec9-bbbd-b7d1c8ed6f0a",
+        "isContainer": true
+      },
+      "parameters": "{\"system.debug\":\"false\",\"BuildConfiguration\":\"DeployTesting\",\"BuildPlatform\":\"any cpu\"}",
+      "orchestrationPlan": {
+        "planId": "c30f22b1-2849-4699-902f-411ed9c78942"
+      },
+      "logs": {
+        "id": 0,
+        "type": "Container",
+        "url": "http://web/tfs/Proyecto/bfa05328-957c-4b28-9cb7-80d3a4158cd2/_apis/build/builds/42888/logs"
+      },
+      "repository": {
+        "id": "$/",
+        "type": "TfsVersionControl",
+        "clean": null,
+        "checkoutSubmodules": false
+      },
+      "keepForever": false
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://web/tfs/Proyecto/bfa05328-957c-4b28-9cb7-80d3a4158cd2/_apis/build/Builds/41076"
+        },
+        "web": {
+          "href": "http://ind156:8080/tfs/_permalink/_build/index?collectionId=0800dfc1-e42a-4464-afaf-0e27450cfa9e&projectId=bfa05328-957c-4b28-9cb7-80d3a4158cd2&buildId=41076"
+        },
+        "timeline": {
+          "href": "http://web/tfs/Proyecto/bfa05328-957c-4b28-9cb7-80d3a4158cd2/_apis/build/builds/41076/Timeline"
+        }
+      },
+      "id": 41076,
+      "buildNumber": "20160914.2",
+      "status": "completed",
+      "result": "succeeded",
+      "queueTime": "2016-09-14T07:21:47.5625092Z",
+      "startTime": "2016-09-14T07:21:49.484379Z",
+      "finishTime": "2016-09-14T07:22:18.3906841Z",
+      "url": "http://web/tfs/Proyecto/bfa05328-957c-4b28-9cb7-80d3a4158cd2/_apis/build/Builds/41076",
+      "definition": {
+        "type": "build",
+        "revision": 5,
+        "id": 973,
+        "name": "IO.SFTP.Conf-Trunk-DTest",
+        "url": "http://web/tfs/Proyecto/bfa05328-957c-4b28-9cb7-80d3a4158cd2/_apis/build/Definitions/973",
+        "project": {
+          "id": "bfa05328-957c-4b28-9cb7-80d3a4158cd2",
+          "name": "Component.IO.SFTP.Conf",
+          "url": "http://web/tfs/Proyecto/_apis/projects/bfa05328-957c-4b28-9cb7-80d3a4158cd2",
+          "state": "wellFormed",
+          "revision": 24631128
+        }
+      },
+      "buildNumberRevision": 2,
+      "project": {
+        "id": "bfa05328-957c-4b28-9cb7-80d3a4158cd2",
+        "name": "Component.IO.SFTP.Conf",
+        "url": "http://web/tfs/Proyecto/_apis/projects/bfa05328-957c-4b28-9cb7-80d3a4158cd2",
+        "state": "wellFormed",
+        "revision": 24631128
+      },
+      "uri": "vstfs:///Build/Build/41076",
+      "sourceBranch": "$/",
+      "sourceVersion": "C33247",
+      "queue": {
+        "pool": {
+          "id": 1,
+          "name": "default"
+        },
+        "id": 1,
+        "name": "default"
+      },
+      "priority": "normal",
+      "reason": "manual",
+      "requestedFor": {
+        "id": "d9f6f248-f21c-4258-a32c-ed87cdbfa6c9",
+        "displayName": "José Ballester",
+        "uniqueName": "ADESI\\jballes",
+        "url": "http://web/tfs/Proyecto/_apis/Identities/d9f6f248-f21c-4258-a32c-ed87cdbfa6c9",
+        "imageUrl": "http://ind156:8080/tfs/Proyecto/_api/_common/identityImage?id=d9f6f248-f21c-4258-a32c-ed87cdbfa6c9"
+      },
+      "requestedBy": {
+        "id": "d9f6f248-f21c-4258-a32c-ed87cdbfa6c9",
+        "displayName": "José Ballester",
+        "uniqueName": "ADESI\\jballes",
+        "url": "http://web/tfs/Proyecto/_apis/Identities/d9f6f248-f21c-4258-a32c-ed87cdbfa6c9",
+        "imageUrl": "http://ind156:8080/tfs/Proyecto/_api/_common/identityImage?id=d9f6f248-f21c-4258-a32c-ed87cdbfa6c9"
+      },
+      "lastChangedDate": "2016-09-14T07:22:18.377Z",
+      "lastChangedBy": {
+        "id": "4de83f63-c8ee-4ec9-bbbd-b7d1c8ed6f0a",
+        "displayName": "[Proyecto]\\Project Collection Service Accounts",
+        "uniqueName": "vstfs:///Framework/IdentityDomain/0800dfc1-e42a-4464-afaf-0e27450cfa9e\\Project Collection Service Accounts",
+        "url": "http://web/tfs/Proyecto/_apis/Identities/4de83f63-c8ee-4ec9-bbbd-b7d1c8ed6f0a",
+        "imageUrl": "http://ind156:8080/tfs/Proyecto/_api/_common/identityImage?id=4de83f63-c8ee-4ec9-bbbd-b7d1c8ed6f0a",
+        "isContainer": true
+      },
+      "parameters": "{\"system.debug\":\"false\",\"BuildConfiguration\":\"DeployTesting\",\"BuildPlatform\":\"any cpu\"}",
+      "orchestrationPlan": {
+        "planId": "afa20572-10af-4c89-a4ab-921a65550440"
+      },
+      "logs": {
+        "id": 0,
+        "type": "Container",
+        "url": "http://web/tfs/Proyecto/bfa05328-957c-4b28-9cb7-80d3a4158cd2/_apis/build/builds/41076/logs"
+      },
+      "repository": {
+        "id": "$/",
+        "type": "TfsVersionControl",
+        "clean": null,
+        "checkoutSubmodules": false
+      },
+      "keepForever": false
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://web/tfs/Proyecto/bfa05328-957c-4b28-9cb7-80d3a4158cd2/_apis/build/Builds/40844"
+        },
+        "web": {
+          "href": "http://ind156:8080/tfs/_permalink/_build/index?collectionId=0800dfc1-e42a-4464-afaf-0e27450cfa9e&projectId=bfa05328-957c-4b28-9cb7-80d3a4158cd2&buildId=40844"
+        },
+        "timeline": {
+          "href": "http://web/tfs/Proyecto/bfa05328-957c-4b28-9cb7-80d3a4158cd2/_apis/build/builds/40844/Timeline"
+        }
+      },
+      "id": 40844,
+      "buildNumber": "20160908.1",
+      "status": "completed",
+      "result": "succeeded",
+      "queueTime": "2016-09-08T08:17:01.3084813Z",
+      "startTime": "2016-09-08T08:17:03.1366072Z",
+      "finishTime": "2016-09-08T08:17:38.0741737Z",
+      "url": "http://web/tfs/Proyecto/bfa05328-957c-4b28-9cb7-80d3a4158cd2/_apis/build/Builds/40844",
+      "definition": {
+        "type": "build",
+        "revision": 3,
+        "id": 991,
+        "name": "IO.SFTP.Conf-Trunk-Mongo-CI",
+        "url": "http://web/tfs/Proyecto/bfa05328-957c-4b28-9cb7-80d3a4158cd2/_apis/build/Definitions/991",
+        "project": {
+          "id": "bfa05328-957c-4b28-9cb7-80d3a4158cd2",
+          "name": "Component.IO.SFTP.Conf",
+          "url": "http://web/tfs/Proyecto/_apis/projects/bfa05328-957c-4b28-9cb7-80d3a4158cd2",
+          "state": "wellFormed",
+          "revision": 24631128
+        }
+      },
+      "buildNumberRevision": 1,
+      "project": {
+        "id": "bfa05328-957c-4b28-9cb7-80d3a4158cd2",
+        "name": "Component.IO.SFTP.Conf",
+        "url": "http://web/tfs/Proyecto/_apis/projects/bfa05328-957c-4b28-9cb7-80d3a4158cd2",
+        "state": "wellFormed",
+        "revision": 24631128
+      },
+      "uri": "vstfs:///Build/Build/40844",
+      "sourceBranch": "$/Component.IO.SFTP.Conf/Main/Component.IO.SFTP.Configuration-Trunk/Component.IO.SFTP.Configuration",
+      "sourceVersion": "C33129",
+      "queue": {
+        "pool": {
+          "id": 1,
+          "name": "default"
+        },
+        "id": 1,
+        "name": "default"
+      },
+      "priority": "normal",
+      "reason": "batchedCI",
+      "requestedFor": {
+        "id": "9224e29f-085d-4bc3-8506-e0a68c8fe28c",
+        "displayName": "Mansito, Joan (ESI)",
+        "uniqueName": "ADESI\\jmansit",
+        "url": "http://web/tfs/Proyecto/_apis/Identities/9224e29f-085d-4bc3-8506-e0a68c8fe28c",
+        "imageUrl": "http://ind156:8080/tfs/Proyecto/_api/_common/identityImage?id=9224e29f-085d-4bc3-8506-e0a68c8fe28c"
+      },
+      "requestedBy": {
+        "id": "4de83f63-c8ee-4ec9-bbbd-b7d1c8ed6f0a",
+        "displayName": "[Proyecto]\\Project Collection Service Accounts",
+        "uniqueName": "vstfs:///Framework/IdentityDomain/0800dfc1-e42a-4464-afaf-0e27450cfa9e\\Project Collection Service Accounts",
+        "url": "http://web/tfs/Proyecto/_apis/Identities/4de83f63-c8ee-4ec9-bbbd-b7d1c8ed6f0a",
+        "imageUrl": "http://ind156:8080/tfs/Proyecto/_api/_common/identityImage?id=4de83f63-c8ee-4ec9-bbbd-b7d1c8ed6f0a",
+        "isContainer": true
+      },
+      "lastChangedDate": "2016-09-08T08:17:38Z",
+      "lastChangedBy": {
+        "id": "4de83f63-c8ee-4ec9-bbbd-b7d1c8ed6f0a",
+        "displayName": "[Proyecto]\\Project Collection Service Accounts",
+        "uniqueName": "vstfs:///Framework/IdentityDomain/0800dfc1-e42a-4464-afaf-0e27450cfa9e\\Project Collection Service Accounts",
+        "url": "http://web/tfs/Proyecto/_apis/Identities/4de83f63-c8ee-4ec9-bbbd-b7d1c8ed6f0a",
+        "imageUrl": "http://ind156:8080/tfs/Proyecto/_api/_common/identityImage?id=4de83f63-c8ee-4ec9-bbbd-b7d1c8ed6f0a",
+        "isContainer": true
+      },
+      "orchestrationPlan": {
+        "planId": "caff97fa-ca9e-46e5-8ebd-f60fdfc7c0da"
+      },
+      "logs": {
+        "id": 0,
+        "type": "Container",
+        "url": "http://web/tfs/Proyecto/bfa05328-957c-4b28-9cb7-80d3a4158cd2/_apis/build/builds/40844/logs"
+      },
+      "repository": {
+        "id": "$/",
+        "type": "TfsVersionControl",
+        "clean": null,
+        "checkoutSubmodules": false
+      },
+      "keepForever": false
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://web/tfs/Proyecto/bfa05328-957c-4b28-9cb7-80d3a4158cd2/_apis/build/Builds/40704"
+        },
+        "web": {
+          "href": "http://ind156:8080/tfs/_permalink/_build/index?collectionId=0800dfc1-e42a-4464-afaf-0e27450cfa9e&projectId=bfa05328-957c-4b28-9cb7-80d3a4158cd2&buildId=40704"
+        },
+        "timeline": {
+          "href": "http://web/tfs/Proyecto/bfa05328-957c-4b28-9cb7-80d3a4158cd2/_apis/build/builds/40704/Timeline"
+        }
+      },
+      "id": 40704,
+      "buildNumber": "20160906.2",
+      "status": "completed",
+      "result": "succeeded",
+      "queueTime": "2016-09-06T08:44:50.9808794Z",
+      "startTime": "2016-09-06T08:44:51.9808798Z",
+      "finishTime": "2016-09-06T08:46:24.0904304Z",
+      "url": "http://web/tfs/Proyecto/bfa05328-957c-4b28-9cb7-80d3a4158cd2/_apis/build/Builds/40704",
+      "definition": {
+        "type": "build",
+        "revision": 8,
+        "id": 882,
+        "name": "IO.SFTP.Conf-Trunk-GCI",
+        "url": "http://web/tfs/Proyecto/bfa05328-957c-4b28-9cb7-80d3a4158cd2/_apis/build/Definitions/882",
+        "project": {
+          "id": "bfa05328-957c-4b28-9cb7-80d3a4158cd2",
+          "name": "Component.IO.SFTP.Conf",
+          "url": "http://web/tfs/Proyecto/_apis/projects/bfa05328-957c-4b28-9cb7-80d3a4158cd2",
+          "state": "wellFormed",
+          "revision": 24631128
+        }
+      },
+      "buildNumberRevision": 2,
+      "project": {
+        "id": "bfa05328-957c-4b28-9cb7-80d3a4158cd2",
+        "name": "Component.IO.SFTP.Conf",
+        "url": "http://web/tfs/Proyecto/_apis/projects/bfa05328-957c-4b28-9cb7-80d3a4158cd2",
+        "state": "wellFormed",
+        "revision": 24631128
+      },
+      "uri": "vstfs:///Build/Build/40704",
+      "sourceBranch": "$/Component.IO.SFTP.Conf/Main/IO.SFTP.Conf-Trunk/Component.IO.SFTP.Conf",
+      "sourceVersion": "C33051",
+      "queue": {
+        "pool": {
+          "id": 1,
+          "name": "default"
+        },
+        "id": 1,
+        "name": "default"
+      },
+      "priority": "normal",
+      "reason": "checkInShelveset",
+      "requestedFor": {
+        "id": "9224e29f-085d-4bc3-8506-e0a68c8fe28c",
+        "displayName": "Mansito, Joan (ESI)",
+        "uniqueName": "ADESI\\jmansit",
+        "url": "http://web/tfs/Proyecto/_apis/Identities/9224e29f-085d-4bc3-8506-e0a68c8fe28c",
+        "imageUrl": "http://ind156:8080/tfs/Proyecto/_api/_common/identityImage?id=9224e29f-085d-4bc3-8506-e0a68c8fe28c"
+      },
+      "requestedBy": {
+        "id": "9224e29f-085d-4bc3-8506-e0a68c8fe28c",
+        "displayName": "Mansito, Joan (ESI)",
+        "uniqueName": "ADESI\\jmansit",
+        "url": "http://web/tfs/Proyecto/_apis/Identities/9224e29f-085d-4bc3-8506-e0a68c8fe28c",
+        "imageUrl": "http://ind156:8080/tfs/Proyecto/_api/_common/identityImage?id=9224e29f-085d-4bc3-8506-e0a68c8fe28c"
+      },
+      "lastChangedDate": "2016-09-06T08:46:24.52Z",
+      "lastChangedBy": {
+        "id": "4de83f63-c8ee-4ec9-bbbd-b7d1c8ed6f0a",
+        "displayName": "[Proyecto]\\Project Collection Service Accounts",
+        "uniqueName": "vstfs:///Framework/IdentityDomain/0800dfc1-e42a-4464-afaf-0e27450cfa9e\\Project Collection Service Accounts",
+        "url": "http://web/tfs/Proyecto/_apis/Identities/4de83f63-c8ee-4ec9-bbbd-b7d1c8ed6f0a",
+        "imageUrl": "http://ind156:8080/tfs/Proyecto/_api/_common/identityImage?id=4de83f63-c8ee-4ec9-bbbd-b7d1c8ed6f0a",
+        "isContainer": true
+      },
+      "orchestrationPlan": {
+        "planId": "29a21c03-dee5-4379-96d9-7160b9d02f91"
+      },
+      "logs": {
+        "id": 0,
+        "type": "Container",
+        "url": "http://web/tfs/Proyecto/bfa05328-957c-4b28-9cb7-80d3a4158cd2/_apis/build/builds/40704/logs"
+      },
+      "repository": {
+        "id": "$/",
+        "type": "TfsVersionControl",
+        "clean": null,
+        "checkoutSubmodules": false
+      },
+      "keepForever": false
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://web/tfs/Proyecto/bfa05328-957c-4b28-9cb7-80d3a4158cd2/_apis/build/Builds/40624"
+        },
+        "web": {
+          "href": "http://ind156:8080/tfs/_permalink/_build/index?collectionId=0800dfc1-e42a-4464-afaf-0e27450cfa9e&projectId=bfa05328-957c-4b28-9cb7-80d3a4158cd2&buildId=40624"
+        },
+        "timeline": {
+          "href": "http://web/tfs/Proyecto/bfa05328-957c-4b28-9cb7-80d3a4158cd2/_apis/build/builds/40624/Timeline"
+        }
+      },
+      "id": 40624,
+      "buildNumber": "20160905.1",
+      "status": "completed",
+      "result": "succeeded",
+      "queueTime": "2016-09-05T10:20:53.4244316Z",
+      "startTime": "2016-09-05T10:20:54.8775634Z",
+      "finishTime": "2016-09-05T10:21:32.9245125Z",
+      "url": "http://web/tfs/Proyecto/bfa05328-957c-4b28-9cb7-80d3a4158cd2/_apis/build/Builds/40624",
+      "definition": {
+        "type": "build",
+        "revision": 3,
+        "id": 890,
+        "name": "IO.SFTP.Conf-Trunk-CI",
+        "url": "http://web/tfs/Proyecto/bfa05328-957c-4b28-9cb7-80d3a4158cd2/_apis/build/Definitions/890",
+        "project": {
+          "id": "bfa05328-957c-4b28-9cb7-80d3a4158cd2",
+          "name": "Component.IO.SFTP.Conf",
+          "url": "http://web/tfs/Proyecto/_apis/projects/bfa05328-957c-4b28-9cb7-80d3a4158cd2",
+          "state": "wellFormed",
+          "revision": 24631128
+        }
+      },
+      "buildNumberRevision": 1,
+      "project": {
+        "id": "bfa05328-957c-4b28-9cb7-80d3a4158cd2",
+        "name": "Component.IO.SFTP.Conf",
+        "url": "http://web/tfs/Proyecto/_apis/projects/bfa05328-957c-4b28-9cb7-80d3a4158cd2",
+        "state": "wellFormed",
+        "revision": 24631128
+      },
+      "uri": "vstfs:///Build/Build/40624",
+      "sourceBranch": "$/Component.IO.SFTP.Conf/Main/IO.SFTP.Conf-Trunk/Component.IO.SFTP.Conf",
+      "sourceVersion": "C33028",
+      "queue": {
+        "pool": {
+          "id": 1,
+          "name": "default"
+        },
+        "id": 1,
+        "name": "default"
+      },
+      "priority": "normal",
+      "reason": "batchedCI",
+      "requestedFor": {
+        "id": "9224e29f-085d-4bc3-8506-e0a68c8fe28c",
+        "displayName": "Mansito, Joan (ESI)",
+        "uniqueName": "ADESI\\jmansit",
+        "url": "http://web/tfs/Proyecto/_apis/Identities/9224e29f-085d-4bc3-8506-e0a68c8fe28c",
+        "imageUrl": "http://ind156:8080/tfs/Proyecto/_api/_common/identityImage?id=9224e29f-085d-4bc3-8506-e0a68c8fe28c"
+      },
+      "requestedBy": {
+        "id": "4de83f63-c8ee-4ec9-bbbd-b7d1c8ed6f0a",
+        "displayName": "[Proyecto]\\Project Collection Service Accounts",
+        "uniqueName": "vstfs:///Framework/IdentityDomain/0800dfc1-e42a-4464-afaf-0e27450cfa9e\\Project Collection Service Accounts",
+        "url": "http://web/tfs/Proyecto/_apis/Identities/4de83f63-c8ee-4ec9-bbbd-b7d1c8ed6f0a",
+        "imageUrl": "http://ind156:8080/tfs/Proyecto/_api/_common/identityImage?id=4de83f63-c8ee-4ec9-bbbd-b7d1c8ed6f0a",
+        "isContainer": true
+      },
+      "lastChangedDate": "2016-09-05T10:21:32.77Z",
+      "lastChangedBy": {
+        "id": "4de83f63-c8ee-4ec9-bbbd-b7d1c8ed6f0a",
+        "displayName": "[Proyecto]\\Project Collection Service Accounts",
+        "uniqueName": "vstfs:///Framework/IdentityDomain/0800dfc1-e42a-4464-afaf-0e27450cfa9e\\Project Collection Service Accounts",
+        "url": "http://web/tfs/Proyecto/_apis/Identities/4de83f63-c8ee-4ec9-bbbd-b7d1c8ed6f0a",
+        "imageUrl": "http://ind156:8080/tfs/Proyecto/_api/_common/identityImage?id=4de83f63-c8ee-4ec9-bbbd-b7d1c8ed6f0a",
+        "isContainer": true
+      },
+      "orchestrationPlan": {
+        "planId": "ff0ad8ad-1d22-4913-a09c-3d09f25f6331"
+      },
+      "logs": {
+        "id": 0,
+        "type": "Container",
+        "url": "http://web/tfs/Proyecto/bfa05328-957c-4b28-9cb7-80d3a4158cd2/_apis/build/builds/40624/logs"
+      },
+      "repository": {
+        "id": "$/",
+        "type": "TfsVersionControl",
+        "clean": null,
+        "checkoutSubmodules": false
+      },
+      "keepForever": false
+    }
+  ]
+}

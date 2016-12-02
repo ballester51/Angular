@@ -1,0 +1,39 @@
+<h1>BUIDLS ({{mode}})</h1>
+<!--<h3>Heroes:</h3>
+<ul>
+  <li *ngFor="let hero of heroes">
+    {{hero.name}}
+  </li>
+</ul>-->
+
+<h3>Team Project:</h3>
+{{TeamProject && TeamProject.name}}
+
+<h3>URL List Build:</h3>
+{{UrlListBuild}}
+
+<h3>Amount Builds:</h3>
+{{builds?.count}}
+<h3>Builds:</h3>
+<!--<ul>
+  <li *ngFor="let team_project of team_projects?.value">
+    {{team_project.name}}
+  </li>
+</ul>-->
+
+<select [ngModel]="selectedDeviceObj" (ngModelChange)="onChangeObj($event)" name="sel1">
+  <option [ngValue]="i" *ngFor="let i of builds?.value">{{i.definition.name}}</option>
+</select>
+{{selectedBuildObj | json}}
+
+{{BuildName | json}}
+
+<detailBuild-list [BuildName]="BuildName"></detailBuild-list>
+ 
+<!--New hero name:
+<input #newHeroName />
+<button (click)="addHero(newHeroName.value); newHeroName.value=''">
+  Add Hero
+</button>-->
+<div class="error" *ngIf="errorMessage">{{errorMessage}}</div>
+

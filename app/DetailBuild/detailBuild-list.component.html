@@ -1,0 +1,40 @@
+<h1>DETAIL BUIDLS ({{mode}})</h1>
+<!--<h3>Heroes:</h3>
+<ul>
+  <li *ngFor="let hero of heroes">
+    {{hero.name}}
+  </li>
+</ul>-->
+<h3>Name Build Parent:</h3>
+{{BuildName && BuildName.definition.name}}
+
+<h3>URL Detail Build:</h3>
+{{UrlDetailBuild}}
+
+<h3>Name Build:</h3>
+{{detailBuilds?.name}}
+
+
+
+<h3>StepBuilds:</h3>
+<!--<ul>
+  <li *ngFor="let team_project of team_projects?.value">
+    {{team_project.name}}
+  </li>
+</ul>-->
+
+<select [ngModel]="selectedDeviceObj" (ngModelChange)="onChangeObj($event)" name="sel2">
+  <option [ngValue]="i" *ngFor="let i of detailBuilds?.build">{{i.displayName}}</option>
+</select>
+{{selectedDetailBuildObj | json}}
+
+
+
+ 
+<!--New hero name:
+<input #newHeroName />
+<button (click)="addHero(newHeroName.value); newHeroName.value=''">
+  Add Hero
+</button>-->
+<div class="error" *ngIf="errorMessage">{{errorMessage}}</div>
+
